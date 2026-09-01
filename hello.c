@@ -1,9 +1,8 @@
 /**
- * Author: Fischer Ronnei
- *         90144513@nebraska.edu
- * Date: 08/25/26
+ * Author: Jeremy Rodriguez
+ * Date: 2026/08/27
  *
- * A simple hello world program in C
+ * Printing name and major
  *
  */
 #include <stdlib.h>
@@ -11,8 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Fischer Ronnei\n");
-  printf("My major is computer engineering.\n");
+  printf("Jeremy Rodriguez.\n");
+  printf("Robotics Engineering!\n");
 
 
   return 0;
